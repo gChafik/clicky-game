@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "https://cdn.pixabay.com/photo/2017/05/07/08/56/pancakes-2291908__340.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.pixabay.com/photo/2015/11/19/10/38/food-1050813__340.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.pixabay.com/photo/2017/01/30/13/49/pancakes-2020863__340.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.pixabay.com/photo/2015/11/19/10/38/food-1050813__340.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.pixabay.com/photo/2017/01/12/02/34/coffee-1973549__340.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/00/food-1209007__340.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://cdn.pixabay.com/photo/2016/11/20/09/06/bowl-1842294__340.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.pixabay.com/photo/2016/01/19/17/50/waffle-1149934__340.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.pixabay.com/photo/2015/04/20/13/25/burger-731298__340.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/12/15/berries-1869421__340.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://cdn.pixabay.com/photo/2016/11/21/15/52/appetizer-1846083__340.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://cdn.pixabay.com/photo/2016/11/23/14/37/baked-goods-1853261__340.jpg",
+      "clicked": false
+    }
+  ]
